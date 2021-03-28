@@ -10,6 +10,7 @@
 - 上海生命科学研究院，徐书华教授 
 - A dynamic 6000-year genetic history of Eurasia's Eastern steppe
 - 中科院古脊椎所，付巧妹
+- 华夏上古神系，朱大可著
 
 
 ## 儿童书籍
