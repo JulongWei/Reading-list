@@ -1,2 +1,3 @@
 #
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
+- Effective gene expression prediction from sequence by integrating long-range interactions, https://www.biorxiv.org/content/10.1101/2021.04.07.438649v1.full
