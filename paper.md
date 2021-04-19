@@ -5,3 +5,4 @@
 - Spatial genomics maps the structure, character and evolution of cancer clones, https://www.biorxiv.org/content/10.1101/2021.04.16.439912v1
 - The discovery of split genes and RNA splicing, https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(05)00092-7
 - Iterative single-cell multi-omic integration using online learning, https://www.nature.com/articles/s41587-021-00867-x
+- Discovery of target genes and pathways of blood trait loci using pooled CRISPR screens and single cell RNA sequencing,   https://www.biorxiv.org/content/10.1101/2021.04.07.438882v1
