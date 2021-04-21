@@ -1,5 +1,7 @@
 #
-- Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
+- scMET: Bayesian modeling of DNA methylation heterogeneity at single-cell resolution, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02329-8
+- Genomic architecture and prediction of censored time-to-event phenotypes with a Bayesian genome-wide analysis, https://www.nature.com/articles/s41467-021-22538-w
+-  Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Simultaneous trimodal single-cell measurement of transcripts, epitopes, and chromatin accessibility using TEA-seq, https://elifesciences.org/articles/63632
 - Effective gene expression prediction from sequence by integrating long-range interactions, https://www.biorxiv.org/content/10.1101/2021.04.07.438649v1.full
 - Analysis across Taiwan Biobank, Biobank Japan and UK Biobank identifies hundreds of novel loci for 36 quantitative traits,  https://www.medrxiv.org/content/10.1101/2021.04.12.21255236v1
