@@ -1,5 +1,6 @@
 #
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
+- Simultaneous trimodal single-cell measurement of transcripts, epitopes, and chromatin accessibility using TEA-seq, https://elifesciences.org/articles/63632
 - Effective gene expression prediction from sequence by integrating long-range interactions, https://www.biorxiv.org/content/10.1101/2021.04.07.438649v1.full
 - Analysis across Taiwan Biobank, Biobank Japan and UK Biobank identifies hundreds of novel loci for 36 quantitative traits,  https://www.medrxiv.org/content/10.1101/2021.04.12.21255236v1
 - Spatial genomics maps the structure, character and evolution of cancer clones, https://www.biorxiv.org/content/10.1101/2021.04.16.439912v1
