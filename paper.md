@@ -20,3 +20,7 @@
 - scMET: Bayesian modeling of DNA methylation heterogeneity at single-cell resolution, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02329-8
 - A cell atlas of chromatin accessibility across 25 adult human tissues, https://www.biorxiv.org/content/10.1101/2021.02.17.431699v1.full
 - Iterative single-cell multi-omic integration using online learning, https://www.nature.com/articles/s41587-021-00867-x
+
+
+##### Others
+Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/371
