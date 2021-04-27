@@ -10,6 +10,7 @@
 - Genetic analyses identify widespread sex-differential participation bias, https://www.nature.com/articles/s41588-021-00846-7
 - Finding hidden treasures in summary statistics from genome-wide association studies, https://www.nature.com/articles/s41588-021-00824-z
 - A genome-wide atlas of co-essential modules assigns function to uncharacterized genes, https://www.nature.com/articles/s41588-021-00840-z
+- Tissue specificity-aware TWAS (TSA-TWAS) framework identifies novel associations with metabolic, immunologic, and virologic traits in HIV-positive adults, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009464
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
