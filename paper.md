@@ -27,4 +27,4 @@
 
 
 ##### Others
-Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/371
+- Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
