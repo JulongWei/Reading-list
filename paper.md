@@ -24,6 +24,7 @@
 - Benchmarking of cell type deconvolution pipelines for transcriptomics data, https://www.nature.com/articles/s41467-020-19015-1
 - SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references, https://academic.oup.com/bib/article/22/1/416/5699815
 - SPOTlight: seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes, https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab043/6129341
+- A molecular single-cell lung atlas of lethal COVID-19, https://www.nature.com/articles/s41586-021-03569-1
 
 
 ##### Others
