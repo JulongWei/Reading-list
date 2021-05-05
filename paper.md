@@ -34,3 +34,4 @@
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
+- How SARS-CoV-2 first adapted in humans, https://science.sciencemag.org/content/372/6541/466
