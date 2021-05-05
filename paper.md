@@ -13,6 +13,7 @@
 - Tissue specificity-aware TWAS (TSA-TWAS) framework identifies novel associations with metabolic, immunologic, and virologic traits in HIV-positive adults, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009464
 - MRLocus: identifying causal genes mediating a trait through Bayesian estimation of allelic heterogeneity, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009455
 - MOSTWAS: Multi-Omic Strategies for Transcriptome-Wide Association Studies, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009398&rev=1
+- A comparison of ten polygenic score methods for psychiatric disorders applied across multiple cohorts, https://www.sciencedirect.com/science/article/pii/S0006322321012634#!
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
