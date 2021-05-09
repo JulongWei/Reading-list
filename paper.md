@@ -30,7 +30,8 @@
 - A molecular single-cell lung atlas of lethal COVID-19, https://www.nature.com/articles/s41586-021-03569-1
 - COVID-19 tissue atlases reveal SARS-CoV-2 pathology and cellular targets， https://www.nature.com/articles/s41586-021-03570-8
 - A cis-regulatory atlas in maize at single-cell resolution, https://www.cell.com/cell/fulltext/S0092-8674(21)00493-1
-
+- Single-cell joint detection of chromatin occupancy and transcriptome enables higher-dimensional epigenomic reconstructions, https://www.nature.com/articles/s41592-021-01129-z
+- Robust single-cell discovery of RNA targets of RNA-binding proteins and ribosomes, https://www.nature.com/articles/s41592-021-01128-0
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
