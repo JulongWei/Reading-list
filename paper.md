@@ -34,6 +34,7 @@
 - Single-cell joint detection of chromatin occupancy and transcriptome enables higher-dimensional epigenomic reconstructions, https://www.nature.com/articles/s41592-021-01129-z
 - Robust single-cell discovery of RNA targets of RNA-binding proteins and ribosomes, https://www.nature.com/articles/s41592-021-01128-0
 - Computational principles and challenges in single-cell data integration, https://www.nature.com/articles/s41587-021-00895-7
+- Bayesian cell-type deconvolution and gene expression inference reveals tumor-microenvironment interactions, https://www.biorxiv.org/content/10.1101/2020.01.07.897900v3
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
