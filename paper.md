@@ -35,9 +35,11 @@
 - Robust single-cell discovery of RNA targets of RNA-binding proteins and ribosomes, https://www.nature.com/articles/s41592-021-01128-0
 - Computational principles and challenges in single-cell data integration, https://www.nature.com/articles/s41587-021-00895-7
 - Bayesian cell-type deconvolution and gene expression inference reveals tumor-microenvironment interactions, https://www.biorxiv.org/content/10.1101/2020.01.07.897900v3
+- Cross-tissue organization of the fibroblast lineage, https://www.nature.com/articles/s41586-021-03549-5
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
 - How SARS-CoV-2 first adapted in humans, https://science.sciencemag.org/content/372/6541/466
 - Thymic development of gut-microbiota-specific T cells, https://www.nature.com/articles/s41586-021-03531-1
+- Discovering unknown human and mouse transcription factor binding sites and their characteristics from ChIP-seq data, https://www.pnas.org/content/118/20/e2026754118
