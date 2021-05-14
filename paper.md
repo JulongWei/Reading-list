@@ -15,6 +15,7 @@
 - MOSTWAS: Multi-Omic Strategies for Transcriptome-Wide Association Studies, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009398&rev=1
 - A comparison of ten polygenic score methods for psychiatric disorders applied across multiple cohorts, https://www.sciencedirect.com/science/article/pii/S0006322321012634#!
 - Genetic determinants of chromatin reveal prostate cancer risk mediated by context-dependent gene regulation, https://www.biorxiv.org/content/10.1101/2021.05.10.443466v1
+- A catalog of transcription start sites across 115 human tissue and cell types, https://www.biorxiv.org/content/10.1101/2021.05.12.443890v1
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
