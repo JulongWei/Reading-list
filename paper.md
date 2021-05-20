@@ -17,6 +17,7 @@
 - Genetic determinants of chromatin reveal prostate cancer risk mediated by context-dependent gene regulation, https://www.biorxiv.org/content/10.1101/2021.05.10.443466v1
 - A catalog of transcription start sites across 115 human tissue and cell types, https://www.biorxiv.org/content/10.1101/2021.05.12.443890v1
 - Genetic analysis in European ancestry individuals identifies 517 loci associated with liver enzymes, https://www.nature.com/articles/s41467-021-22338-2
+- Shared and disease-specific host gene-microbiome interactions across human diseases, https://www.biorxiv.org/content/10.1101/2021.03.29.437589v1
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
