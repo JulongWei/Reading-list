@@ -19,6 +19,7 @@
 - Genetic analysis in European ancestry individuals identifies 517 loci associated with liver enzymes, https://www.nature.com/articles/s41467-021-22338-2
 - Shared and disease-specific host gene-microbiome interactions across human diseases, https://www.biorxiv.org/content/10.1101/2021.03.29.437589v1
 - Gut microbial structural variations as determinants of human bile acid metabolism, https://www.biorxiv.org/content/10.1101/2021.02.28.432952v1.full.pdf
+- Natural Killer cells demonstrate distinct eQTL and transcriptome-wide disease associations, highlighting their role in autoimmunity, https://www.biorxiv.org/content/10.1101/2021.05.10.443088v1.full
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
