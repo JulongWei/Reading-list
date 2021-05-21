@@ -43,6 +43,7 @@
 - Cross-tissue organization of the fibroblast lineage, https://www.nature.com/articles/s41586-021-03549-5
 - Interpretation of T cell states from single-cell transcriptomics data using reference atlases, https://www.nature.com/articles/s41467-021-23324-4
 - Sequence-based modeling of genome 3D architecture from kilobase to chromosome-scale, https://www.biorxiv.org/content/10.1101/2021.05.19.444847v1
+- Cell-type-specific effects of genetic variation on chromatin accessibility during human neuronal differentiation, https://www.nature.com/articles/s41593-021-00858-w
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
