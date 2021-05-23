@@ -21,6 +21,8 @@
 - Gut microbial structural variations as determinants of human bile acid metabolism, https://www.biorxiv.org/content/10.1101/2021.02.28.432952v1.full.pdf
 - Natural Killer cells demonstrate distinct eQTL and transcriptome-wide disease associations, highlighting their role in autoimmunity, https://www.biorxiv.org/content/10.1101/2021.05.10.443088v1.full
 - Advancing crop genomics from lab to field, https://www.nature.com/articles/s41588-021-00866-3
+- Activity-by-contact model of enhancer–promoter regulation from thousands of CRISPR perturbations，https://www.nature.com/articles/s41588-019-0538-0?elqTrackId=29cc80ae3c3947faab0e4dfd70823d5d
+- Genome-wide enhancer maps link risk variants to disease genes， https://www.nature.com/articles/s41586-021-03446-x
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
