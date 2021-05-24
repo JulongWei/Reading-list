@@ -50,6 +50,7 @@
 - Sequence-based modeling of genome 3D architecture from kilobase to chromosome-scale, https://www.biorxiv.org/content/10.1101/2021.05.19.444847v1
 - Cell-type-specific effects of genetic variation on chromatin accessibility during human neuronal differentiation, https://www.nature.com/articles/s41593-021-00858-w
 - Heterogeneity of monocyte subsets and susceptibility to influenza virus contribute to inter-population variability of protective immunity, https://www.biorxiv.org/content/10.1101/2020.12.07.414151v2.full
+- Base-resolution models of transcription-factor binding reveal soft motif syntax, https://www.nature.com/articles/s41588-021-00782-6
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
