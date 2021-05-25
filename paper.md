@@ -24,6 +24,9 @@
 - Activity-by-contact model of enhancer–promoter regulation from thousands of CRISPR perturbations，https://www.nature.com/articles/s41588-019-0538-0?elqTrackId=29cc80ae3c3947faab0e4dfd70823d5d
 - Genome-wide enhancer maps link risk variants to disease genes， https://www.nature.com/articles/s41586-021-03446-x
 - Fine-mapping inflammatory bowel disease loci to single-variant resolution, https://www.nature.com/articles/nature22969
+- A powerful method for pleiotropic analysis under composite null hypothesis identifies novel shared loci between Type 2 Diabetes and Prostate Cancer, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009218
+- Multi-trait GWAS of atherosclerosis detects novel pleiotropic loci, https://www.medrxiv.org/content/10.1101/2021.05.21.21257493v1
+- 
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
