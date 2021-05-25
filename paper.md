@@ -56,6 +56,7 @@
 - Heterogeneity of monocyte subsets and susceptibility to influenza virus contribute to inter-population variability of protective immunity, https://www.biorxiv.org/content/10.1101/2020.12.07.414151v2.full
 - Base-resolution models of transcription-factor binding reveal soft motif syntax, https://www.nature.com/articles/s41588-021-00782-6
 - Deep generative model embedding of single-cell RNA-Seq profiles on hyperspheres and hyperbolic spaces, https://www.nature.com/articles/s41467-021-22851-4
+- Identifying disease-critical cell types and cellular processes across the human body by integration of single-cell profiles and human genetics, https://www.biorxiv.org/content/10.1101/2021.03.19.436212v1.full
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
