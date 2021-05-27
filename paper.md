@@ -28,6 +28,8 @@
 - Multi-trait GWAS of atherosclerosis detects novel pleiotropic loci, https://www.medrxiv.org/content/10.1101/2021.05.21.21257493v1
 - GRiNCH: simultaneous smoothing and detection of topological units of genome organization from sparse chromatin contact count matrices with matrix factorization, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02378-z
 - Multiple Causal Variants Underlie Genetic Associations in Humans, https://www.biorxiv.org/content/10.1101/2021.05.24.445471v1
+- Swarm Learning for decentralized and confidential clinical machine learning, https://www.nature.com/articles/s41586-021-03583-3
+- Enhancer release and retargeting activates disease-susceptibility genes, https://www.nature.com/articles/s41586-021-03577-1
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
