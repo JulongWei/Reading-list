@@ -30,10 +30,12 @@
 - Multiple Causal Variants Underlie Genetic Associations in Humans, https://www.biorxiv.org/content/10.1101/2021.05.24.445471v1
 - Swarm Learning for decentralized and confidential clinical machine learning, https://www.nature.com/articles/s41586-021-03583-3
 - Enhancer release and retargeting activates disease-susceptibility genes, https://www.nature.com/articles/s41586-021-03577-1
+- Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations, https://www.cell.com/cell/fulltext/S0092-8674(21)00581-X
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
+- The deep population history of northern East Asia from the Late Pleistocene to the Holocene, https://www.cell.com/cell/fulltext/S0092-8674(21)00575-4
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
