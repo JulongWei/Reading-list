@@ -31,6 +31,7 @@
 - Swarm Learning for decentralized and confidential clinical machine learning, https://www.nature.com/articles/s41586-021-03583-3
 - Enhancer release and retargeting activates disease-susceptibility genes, https://www.nature.com/articles/s41586-021-03577-1
 - Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations, https://www.cell.com/cell/fulltext/S0092-8674(21)00581-X
+- The trans-ancestral genomic architecture of glycemic traits, https://www.nature.com/articles/s41588-021-00852-9
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
