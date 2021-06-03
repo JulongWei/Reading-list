@@ -76,6 +76,7 @@
 - Integrative single-cell analysis of allele-specific copy number alterations and chromatin accessibility in cancer, https://www.nature.com/articles/s41587-021-00911-w
 - Scalable, multimodal profiling of chromatin accessibility, gene expression and protein levels in single cells, https://www.nature.com/articles/s41587-021-00927-2
 - Spatial transcriptomics at subspot resolution with BayesSpace, https://www.nature.com/articles/s41587-021-00935-2
+- Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes, https://www.nature.com/articles/s41592-021-01164-w
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
