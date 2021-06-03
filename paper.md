@@ -69,6 +69,7 @@
 - Single-cell transcriptomics identifies an effectorness gradient shaping the response of CD4+ T cells to cytokines, https://www.nature.com/articles/s41467-020-15543-y
 - Integrated analysis of multimodal single-cell data, https://www.cell.com/cell/fulltext/S0092-8674(21)00583-3
 - A benchmark study of simulation methods for single-cell RNA sequencing data, https://www.biorxiv.org/content/10.1101/2021.06.01.446157v1
+- scRegulocity: Detection of local RNA velocity patterns in embeddings of single cell RNA-Seq data, https://www.biorxiv.org/content/10.1101/2021.06.01.446674v1
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
