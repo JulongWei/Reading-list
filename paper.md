@@ -74,6 +74,8 @@
 - scRegulocity: Detection of local RNA velocity patterns in embeddings of single cell RNA-Seq data, https://www.biorxiv.org/content/10.1101/2021.06.01.446674v1
 - A map of transcriptional heterogeneity and regulatory variation in human microglia, https://www.nature.com/articles/s41588-021-00875-2
 - Integrative single-cell analysis of allele-specific copy number alterations and chromatin accessibility in cancer, https://www.nature.com/articles/s41587-021-00911-w
+- Scalable, multimodal profiling of chromatin accessibility, gene expression and protein levels in single cells, https://www.nature.com/articles/s41587-021-00927-2
+- Spatial transcriptomics at subspot resolution with BayesSpace, https://www.nature.com/articles/s41587-021-00935-2
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
