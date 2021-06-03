@@ -35,6 +35,7 @@
 - Identifying interpretable gene-biomarker associations with functionally informed kernel-based tests in 190,000 exomes, https://www.biorxiv.org/content/10.1101/2021.05.27.444972v1.full
 - Improved genetic prediction of complex traits from individual-level data or summary statistics, https://www.biorxiv.org/content/10.1101/2020.08.24.265280v2.full
 - DeepNull: Modeling non-linear covariate effects improves phenotype prediction and association power, https://www.biorxiv.org/content/10.1101/2021.05.26.445783v1
+- Rapid genotype imputation from sequence with reference panels, https://www.nature.com/articles/s41588-021-00877-0
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
