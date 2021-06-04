@@ -36,6 +36,7 @@
 - Improved genetic prediction of complex traits from individual-level data or summary statistics, https://www.biorxiv.org/content/10.1101/2020.08.24.265280v2.full
 - DeepNull: Modeling non-linear covariate effects improves phenotype prediction and association power, https://www.biorxiv.org/content/10.1101/2021.05.26.445783v1
 - Rapid genotype imputation from sequence with reference panels, https://www.nature.com/articles/s41588-021-00877-0
+- Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes, https://www.nature.com/articles/s41592-021-01164-w
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
@@ -76,7 +77,7 @@
 - Integrative single-cell analysis of allele-specific copy number alterations and chromatin accessibility in cancer, https://www.nature.com/articles/s41587-021-00911-w
 - Scalable, multimodal profiling of chromatin accessibility, gene expression and protein levels in single cells, https://www.nature.com/articles/s41587-021-00927-2
 - Spatial transcriptomics at subspot resolution with BayesSpace, https://www.nature.com/articles/s41587-021-00935-2
-- Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes, https://www.nature.com/articles/s41592-021-01164-w
+- Single-Cell Sequencing Reveals Lineage-Specific Dynamic Genetic Regulation of Gene Expression During Human Cardiomyocyte Differentiation, https://www.biorxiv.org/content/10.1101/2021.06.03.446970v1
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
