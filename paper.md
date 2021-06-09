@@ -79,6 +79,7 @@
 - Spatial transcriptomics at subspot resolution with BayesSpace, https://www.nature.com/articles/s41587-021-00935-2
 - Single-Cell Sequencing Reveals Lineage-Specific Dynamic Genetic Regulation of Gene Expression During Human Cardiomyocyte Differentiation, https://www.biorxiv.org/content/10.1101/2021.06.03.446970v1
 - Spatial-ATAC-seq: spatially resolved chromatin accessibility profiling of tissues at genome scale and cellular level, https://www.biorxiv.org/content/10.1101/2021.06.06.447244v1
+- Systematic reconstruction of the cellular trajectories of mammalian embryogenesis, https://www.biorxiv.org/content/10.1101/2021.06.08.447626v1.article-info
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
