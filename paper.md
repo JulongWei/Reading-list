@@ -37,6 +37,7 @@
 - DeepNull: Modeling non-linear covariate effects improves phenotype prediction and association power, https://www.biorxiv.org/content/10.1101/2021.05.26.445783v1
 - Rapid genotype imputation from sequence with reference panels, https://www.nature.com/articles/s41588-021-00877-0
 - Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes, https://www.nature.com/articles/s41592-021-01164-w
+- Genetic determinants of chromatin reveal prostate cancer risk mediated by context-dependent gene regulation, https://www.biorxiv.org/content/10.1101/2021.05.10.443466v1
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
