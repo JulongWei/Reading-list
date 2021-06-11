@@ -83,6 +83,7 @@
 - Systematic reconstruction of the cellular trajectories of mammalian embryogenesis, https://www.biorxiv.org/content/10.1101/2021.06.08.447626v1.article-info
 - Generalizing RNA velocity to transient cell states through dynamical modeling, https://www.nature.com/articles/s41587-020-0591-3
 - RNA velocity of single cells, https://www.nature.com/articles/s41586-018-0414-6?WT.feed_name=subjects_genome-informatics
+- CellRank for directed single-cell fate mapping, https://www.biorxiv.org/content/10.1101/2020.10.19.345983v2
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
