@@ -40,6 +40,7 @@
 - Genetic determinants of chromatin reveal prostate cancer risk mediated by context-dependent gene regulation, https://www.biorxiv.org/content/10.1101/2021.05.10.443466v1
 - Genetic architecture of gene regulation in Indonesian populations identifies QTLs associated with local ancestry and archaic introgression, https://www.biorxiv.org/content/10.1101/2020.09.25.313726v2.full
 - Fine-mapping, trans-ancestral and genomic analyses identify causal variants, cells, genes and drug targets for type 1 diabetes, https://www.nature.com/articles/s41588-021-00880-5
+- Estimating genetic nurture with summary statistics of multigenerational genome-wide association studies, https://www.pnas.org/content/118/25/e2023184118
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
