@@ -43,6 +43,7 @@
 - Estimating genetic nurture with summary statistics of multigenerational genome-wide association studies, https://www.pnas.org/content/118/25/e2023184118
 - Shared heritability of human face and brain shape, https://www.nature.com/articles/s41588-021-00827-w
 - Dnmt1 has de novo activity targeted to transposable elements, https://www.nature.com/articles/s41594-021-00603-8
+- Fast and powerful statistical method for context-specific QTL mapping in multi-context genomic studies, https://www.biorxiv.org/content/10.1101/2021.06.17.448889v1
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
