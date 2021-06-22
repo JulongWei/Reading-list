@@ -96,6 +96,8 @@
 - Machine learning for perturbational single-cell omics, https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00202-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471221002027%3Fshowall%3Dtrue
 - Human embryoid bodies as a novel system for genomic studies of functionally diverse cell types, https://www.biorxiv.org/content/10.1101/2021.06.16.448714v1
 - splatPop: simulating population scale single-cell RNA sequencing data, https://www.biorxiv.org/content/10.1101/2021.06.17.448806v1
+- The triumphs and limitations of computational methods for scRNA-seq, https://www.nature.com/articles/s41592-021-01171-x
+- TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data, https://www.nature.com/articles/s41592-021-01142-2
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
