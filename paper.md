@@ -100,6 +100,7 @@
 - The triumphs and limitations of computational methods for scRNA-seq, https://www.nature.com/articles/s41592-021-01171-x
 - TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data, https://www.nature.com/articles/s41592-021-01142-2
 - Single-cell RNA-sequencing reveals widespread personalized, context-specific gene expression regulation in immune cells, https://www.biorxiv.org/content/10.1101/2021.06.04.447088v1.full
+- Molecular logic of cellular diversification in the mouse cerebral cortex, https://www.nature.com/articles/s41586-021-03670-5
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
