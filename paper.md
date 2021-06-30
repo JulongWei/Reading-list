@@ -104,6 +104,7 @@
 - Single-cell RNA-sequencing reveals widespread personalized, context-specific gene expression regulation in immune cells, https://www.biorxiv.org/content/10.1101/2021.06.04.447088v1.full
 - Molecular logic of cellular diversification in the mouse cerebral cortex, https://www.nature.com/articles/s41586-021-03670-5
 - Single-cell dissection of live human hearts in ischemic heart disease and heart failure reveals cell-type-specific driver genes and pathways, https://www.biorxiv.org/content/10.1101/2021.06.23.449672v1
+- CellMarker: a manually curated resource of cell markers in human and mouse, https://academic.oup.com/nar/article/47/D1/D721/5115823
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
