@@ -48,6 +48,7 @@
 - Pharmacologic modulation of RNA splicing enhances anti-tumor immunity, https://www.cell.com/cell/fulltext/S0092-8674(21)00690-5
 - Comparative Flavivirus-Host Protein Interaction Mapping Reveals Mechanisms of Dengue and Zika Virus Pathogenesis, https://www.cell.com/cell/fulltext/S0092-8674(18)31553-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867418315538%3Fshowall%3Dtrue
 - Factors Driving DNA Methylation Variation in Human Blood, https://www.biorxiv.org/content/10.1101/2021.06.23.449602v1
+- Sequencing of 640,000 exomes identifies GPR75 variants associated with protection from obesity, https://science.sciencemag.org/content/373/6550/eabf8683
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
