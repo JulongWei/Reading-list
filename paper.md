@@ -49,7 +49,8 @@
 - Comparative Flavivirus-Host Protein Interaction Mapping Reveals Mechanisms of Dengue and Zika Virus Pathogenesis, https://www.cell.com/cell/fulltext/S0092-8674(18)31553-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867418315538%3Fshowall%3Dtrue
 - Factors Driving DNA Methylation Variation in Human Blood, https://www.biorxiv.org/content/10.1101/2021.06.23.449602v1
 - Sequencing of 640,000 exomes identifies GPR75 variants associated with protection from obesity, https://science.sciencemag.org/content/373/6550/eabf8683
-
+- Genetic drivers of m6A methylation in human brain, lung, heart and muscle, https://www.nature.com/articles/s41588-021-00890-3
+- A unified framework identifies new links between plasma lipids and diseases from electronic medical records across large-scale cohorts, https://www.nature.com/articles/s41588-021-00879-y
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
