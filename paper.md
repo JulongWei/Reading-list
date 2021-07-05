@@ -51,6 +51,7 @@
 - Sequencing of 640,000 exomes identifies GPR75 variants associated with protection from obesity, https://science.sciencemag.org/content/373/6550/eabf8683
 - Genetic drivers of m6A methylation in human brain, lung, heart and muscle, https://www.nature.com/articles/s41588-021-00890-3
 - A unified framework identifies new links between plasma lipids and diseases from electronic medical records across large-scale cohorts, https://www.nature.com/articles/s41588-021-00879-y
+- Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles, https://www.pnas.org/content/102/43/15545
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
