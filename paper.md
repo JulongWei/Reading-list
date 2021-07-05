@@ -109,7 +109,7 @@
 - Single-cell dissection of live human hearts in ischemic heart disease and heart failure reveals cell-type-specific driver genes and pathways, https://www.biorxiv.org/content/10.1101/2021.06.23.449672v1
 - CellMarker: a manually curated resource of cell markers in human and mouse, https://academic.oup.com/nar/article/47/D1/D721/5115823
 - Single-cell analyses of renal cell cancers reveal insights into tumor microenvironment, cell of origin, and therapy response, https://www.pnas.org/content/118/24/e2103240118
--
+- Fly Cell Atlas: a single-cell transcriptomic atlas of the adult fruit fly, https://www.biorxiv.org/content/10.1101/2021.07.04.451050v1?rss=1
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
