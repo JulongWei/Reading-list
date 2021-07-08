@@ -113,6 +113,7 @@
 - Fly Cell Atlas: a single-cell transcriptomic atlas of the adult fruit fly, https://www.biorxiv.org/content/10.1101/2021.07.04.451050v1?rss=1
 - Alevin efficiently estimates accurate gene abundances from dscRNA-seq data, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1670-y
 - UMI-tools: Modelling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy, https://genome.cshlp.org/content/early/2017/01/18/gr.209601.116.abstract
+- Computational principles and challenges in single-cell data integration, https://www.nature.com/articles/s41587-021-00895-7
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
