@@ -117,7 +117,7 @@
 - UMI-tools: Modelling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy, https://genome.cshlp.org/content/early/2017/01/18/gr.209601.116.abstract
 - Computational principles and challenges in single-cell data integration, https://www.nature.com/articles/s41587-021-00895-7
 - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease, https://www.nature.com/articles/s41588-021-00894-z
-
+- Cell-type-specific effects of genetic variation on chromatin accessibility during human neuronal differentiation, https://www.nature.com/articles/s41593-021-00858-w
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
