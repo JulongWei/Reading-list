@@ -53,6 +53,8 @@
 - A unified framework identifies new links between plasma lipids and diseases from electronic medical records across large-scale cohorts, https://www.nature.com/articles/s41588-021-00879-y
 - Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles, https://www.pnas.org/content/102/43/15545
 - Factors Driving DNA Methylation Variation in Human Blood, https://www.biorxiv.org/content/10.1101/2021.06.23.449602v1
+- Whole-exome imputation within UK Biobank powers rare coding variant association and fine-mapping analyses, https://www.nature.com/articles/s41588-021-00892-1
+
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
@@ -114,6 +116,9 @@
 - Alevin efficiently estimates accurate gene abundances from dscRNA-seq data, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1670-y
 - UMI-tools: Modelling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy, https://genome.cshlp.org/content/early/2017/01/18/gr.209601.116.abstract
 - Computational principles and challenges in single-cell data integration, https://www.nature.com/articles/s41587-021-00895-7
+- Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease, https://www.nature.com/articles/s41588-021-00894-z
+
+
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
