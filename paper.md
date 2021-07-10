@@ -54,6 +54,7 @@
 - Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles, https://www.pnas.org/content/102/43/15545
 - Factors Driving DNA Methylation Variation in Human Blood, https://www.biorxiv.org/content/10.1101/2021.06.23.449602v1
 - Whole-exome imputation within UK Biobank powers rare coding variant association and fine-mapping analyses, https://www.nature.com/articles/s41588-021-00892-1
+- Gut microbiome heritability is nearly universal but environmentally contingent, https://science.sciencemag.org/content/373/6551/181
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
