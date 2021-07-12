@@ -57,7 +57,8 @@
 - Gut microbiome heritability is nearly universal but environmentally contingent, https://science.sciencemag.org/content/373/6551/181
 - Mapping the human genetic architecture of COVID-19, https://www.nature.com/articles/s41586-021-03767-x_reference.pdf
 - Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms, https://www.biorxiv.org/content/10.1101/2021.07.05.450786v1
-- 
+- Gut-microbiota-targeted diets modulate human immune status， https://www.cell.com/cell/fulltext/S0092-8674(21)00754-6
+- Genetic analyses on the health impacts of testosterone highlight effects on female-specific diseases and sex differences https://www.medrxiv.org/content/10.1101/2021.04.23.21255981v2
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
@@ -124,6 +125,10 @@
 - Cell-type-specific effects of genetic variation on chromatin accessibility during human neuronal differentiation, https://www.nature.com/articles/s41593-021-00858-w
 - ANANSE: An enhancer network-based computational approach for predicting key transcription factors in cell fate determination, https://www.biorxiv.org/content/10.1101/2020.06.05.135798v3
 - Single-cell transcriptomics for the 99.9% of species without reference genomes, https://www.biorxiv.org/content/10.1101/2021.07.09.450799v1
+- Multifactorial chromatin regulatory landscapes at single cell resolution，https://www.biorxiv.org/content/10.1101/2021.07.08.451691v1
+- Comparison and evaluation of statistical error models for scRNA-seq， https://www.biorxiv.org/content/10.1101/2021.07.07.451498v1 
+- Single-nucleus RNA-seq2 reveals functional crosstalk between liver zonation and ploidy，https://www.nature.com/articles/s41467-021-24543-5
+
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
