@@ -56,6 +56,8 @@
 - Whole-exome imputation within UK Biobank powers rare coding variant association and fine-mapping analyses, https://www.nature.com/articles/s41588-021-00892-1
 - Gut microbiome heritability is nearly universal but environmentally contingent, https://science.sciencemag.org/content/373/6551/181
 - Mapping the human genetic architecture of COVID-19, https://www.nature.com/articles/s41586-021-03767-x_reference.pdf
+- Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms, https://www.biorxiv.org/content/10.1101/2021.07.05.450786v1
+- 
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
@@ -120,7 +122,8 @@
 - Computational principles and challenges in single-cell data integration, https://www.nature.com/articles/s41587-021-00895-7
 - Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease, https://www.nature.com/articles/s41588-021-00894-z
 - Cell-type-specific effects of genetic variation on chromatin accessibility during human neuronal differentiation, https://www.nature.com/articles/s41593-021-00858-w
-
+- ANANSE: An enhancer network-based computational approach for predicting key transcription factors in cell fate determination, https://www.biorxiv.org/content/10.1101/2020.06.05.135798v3
+- Single-cell transcriptomics for the 99.9% of species without reference genomes, https://www.biorxiv.org/content/10.1101/2021.07.09.450799v1
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
