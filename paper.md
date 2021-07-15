@@ -128,6 +128,7 @@
 - Multifactorial chromatin regulatory landscapes at single cell resolution，https://www.biorxiv.org/content/10.1101/2021.07.08.451691v1
 - Comparison and evaluation of statistical error models for scRNA-seq， https://www.biorxiv.org/content/10.1101/2021.07.07.451498v1 
 - Single-nucleus RNA-seq2 reveals functional crosstalk between liver zonation and ploidy，https://www.nature.com/articles/s41467-021-24543-5
+- BABEL enables cross-modality translation between multiomic profiles at single-cell resolution, https://www.pnas.org/content/118/15/e2023070118, 
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
