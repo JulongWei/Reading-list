@@ -59,6 +59,7 @@
 - Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms, https://www.biorxiv.org/content/10.1101/2021.07.05.450786v1
 - Gut-microbiota-targeted diets modulate human immune status， https://www.cell.com/cell/fulltext/S0092-8674(21)00754-6
 - Genetic analyses on the health impacts of testosterone highlight effects on female-specific diseases and sex differences https://www.medrxiv.org/content/10.1101/2021.04.23.21255981v2
+- Lung eQTLs to Help Reveal the Molecular Underpinnings of Asthma, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003029
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
