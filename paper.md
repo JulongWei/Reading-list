@@ -61,6 +61,7 @@
 - Genetic analyses on the health impacts of testosterone highlight effects on female-specific diseases and sex differences https://www.medrxiv.org/content/10.1101/2021.04.23.21255981v2
 - Lung eQTLs to Help Reveal the Molecular Underpinnings of Asthma, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003029
 - mbImpute: an accurate and robust imputation method for microbiome data, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02400-4
+- Distinction between the effects of parental and fetal genomes on fetal growth, https://www.nature.com/articles/s41588-021-00896-x?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ng/rss/current+(Nature+Genetics+-+Issue)
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
@@ -133,6 +134,7 @@
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
 - The deep population history of northern East Asia from the Late Pleistocene to the Holocene, https://www.cell.com/cell/fulltext/S0092-8674(21)00575-4
 - An integrative skeletal and paleogenomic analysis of prehistoric stature variation suggests relatively reduced health for early European farmers, https://www.biorxiv.org/content/10.1101/2021.03.31.437881v1.abstract
+- A spectral theory for Wright’s inbreeding coefficients and related quantities, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009665
 
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
