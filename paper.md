@@ -62,6 +62,7 @@
 - Lung eQTLs to Help Reveal the Molecular Underpinnings of Asthma, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003029
 - mbImpute: an accurate and robust imputation method for microbiome data, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02400-4
 - Distinction between the effects of parental and fetal genomes on fetal growth, https://www.nature.com/articles/s41588-021-00896-x?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ng/rss/current+(Nature+Genetics+-+Issue)
+- Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis, https://www.biorxiv.org/content/10.1101/447367v1.full
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
