@@ -126,6 +126,7 @@
 - Single-nucleus RNA-seq2 reveals functional crosstalk between liver zonation and ploidy，https://www.nature.com/articles/s41467-021-24543-5
 - BABEL enables cross-modality translation between multiomic profiles at single-cell resolution, https://www.pnas.org/content/118/15/e2023070118, 
 - Identification of differential RNA modifications from nanopore direct RNA sequencing with xPore, https://www.nature.com/articles/s41587-021-00949-w
+- Single-cell analysis enters the multiomics age, https://www.nature.com/articles/d41586-021-01994-w
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
