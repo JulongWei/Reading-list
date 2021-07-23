@@ -63,7 +63,7 @@
 - mbImpute: an accurate and robust imputation method for microbiome data, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02400-4
 - Distinction between the effects of parental and fetal genomes on fetal growth, https://www.nature.com/articles/s41588-021-00896-x?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ng/rss/current+(Nature+Genetics+-+Issue)
 - Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis, https://www.biorxiv.org/content/10.1101/447367v1.full
-
+- Transcription factor regulation of eQTL activity across individuals and tissues, https://www.biorxiv.org/content/10.1101/2021.07.20.453075v2
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
 - Single-cell multi-omics analysis of the immune response in COVID-19, https://www.nature.com/articles/s41591-021-01329-2
@@ -130,7 +130,7 @@
 - Identification of differential RNA modifications from nanopore direct RNA sequencing with xPore, https://www.nature.com/articles/s41587-021-00949-w
 - Single-cell analysis enters the multiomics age, https://www.nature.com/articles/d41586-021-01994-w
 - Single-nucleus cross-tissue molecular reference maps to decipher disease gene function, https://www.biorxiv.org/content/10.1101/2021.07.19.452954v1
-
+- A multilayered immune system through the lens of unconventional T cells, https://www.nature.com/articles/s41586-021-03578-0
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
