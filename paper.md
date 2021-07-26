@@ -131,6 +131,8 @@
 - Single-cell analysis enters the multiomics age, https://www.nature.com/articles/d41586-021-01994-w
 - Single-nucleus cross-tissue molecular reference maps to decipher disease gene function, https://www.biorxiv.org/content/10.1101/2021.07.19.452954v1
 - A multilayered immune system through the lens of unconventional T cells, https://www.nature.com/articles/s41586-021-03578-0
+- Epigenetic scarring of exhausted T cells hinders memory differentiation upon eliminating chronic antigenic stimulation, https://www.nature.com/articles/s41590-021-00975-5
+- The single-cell epigenomic and transcriptional landscape of immunity to influenza vaccination, https://www.cell.com/cell/fulltext/S0092-8674(21)00692-9?rss=yes&utm_source=dlvr.it&utm_medium=twitter
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
