@@ -139,7 +139,6 @@
 - The deep population history of northern East Asia from the Late Pleistocene to the Holocene, https://www.cell.com/cell/fulltext/S0092-8674(21)00575-4
 - An integrative skeletal and paleogenomic analysis of prehistoric stature variation suggests relatively reduced health for early European farmers, https://www.biorxiv.org/content/10.1101/2021.03.31.437881v1.abstract
 - A spectral theory for Wright’s inbreeding coefficients and related quantities, https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009665
-
 ##### Others
 - Replication timing maintains the global epigenetic state in human cells, https://science.sciencemag.org/content/372/6540/37
 - https://zhuanlan.zhihu.com/p/152242750
