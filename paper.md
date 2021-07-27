@@ -64,6 +64,7 @@
 - Distinction between the effects of parental and fetal genomes on fetal growth, https://www.nature.com/articles/s41588-021-00896-x?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ng/rss/current+(Nature+Genetics+-+Issue)
 - Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis, https://www.biorxiv.org/content/10.1101/447367v1.full
 - Transcription factor regulation of eQTL activity across individuals and tissues, https://www.biorxiv.org/content/10.1101/2021.07.20.453075v2
+- Leveraging gene co-regulation to identify gene sets enriched for disease heritability, https://www.biorxiv.org/content/10.1101/2021.07.22.453442v1?rss=1&utm_source=dlvr.it&utm_medium=twitter
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
 - Single-cell multi-omics analysis of the immune response in COVID-19, https://www.nature.com/articles/s41591-021-01329-2
@@ -133,6 +134,8 @@
 - A multilayered immune system through the lens of unconventional T cells, https://www.nature.com/articles/s41586-021-03578-0
 - Epigenetic scarring of exhausted T cells hinders memory differentiation upon eliminating chronic antigenic stimulation, https://www.nature.com/articles/s41590-021-00975-5
 - The single-cell epigenomic and transcriptional landscape of immunity to influenza vaccination, https://www.cell.com/cell/fulltext/S0092-8674(21)00692-9?rss=yes&utm_source=dlvr.it&utm_medium=twitter
+- Identifying cell-state associated alternative splicing events and their co-regulation, https://www.biorxiv.org/content/10.1101/2021.07.23.453605v2
+- 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
