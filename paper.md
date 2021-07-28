@@ -69,7 +69,7 @@
 - Advancing human genetics research and drug discovery through exome sequencing of the UK Biobank, https://www.nature.com/articles/s41588-021-00885-0
 - Distinction between the effects of parental and fetal genomes on fetal growth, https://www.nature.com/articles/s41588-021-00896-x
 - The Polygenic Score Catalog as an open database for reproducibility and systematic evaluation, https://www.nature.com/articles/s41588-021-00783-5
-- The trans-ancestral genomic architecture of glycemic traits, https://www.nature.com/articles/s41588-021-00852-9
+
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
 - Single-cell multi-omics analysis of the immune response in COVID-19, https://www.nature.com/articles/s41591-021-01329-2
