@@ -71,6 +71,7 @@
 - The Polygenic Score Catalog as an open database for reproducibility and systematic evaluation, https://www.nature.com/articles/s41588-021-00783-5
 - Direct characterization of cis-regulatory elements and functional dissection of complex genetic associations using HCR–FlowFISH, https://www.nature.com/articles/s41588-021-00900-4
 - The distribution of common-variant effect sizes, https://www.nature.com/articles/s41588-021-00901-3
+- The omnigenic model and polygenic prediction of complex traits, https://www.sciencedirect.com/science/article/pii/S0002929721002718?dgcid=author#!
 
 
 
