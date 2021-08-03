@@ -147,7 +147,9 @@
 - Identifying cell-state associated alternative splicing events and their co-regulation, https://www.biorxiv.org/content/10.1101/2021.07.23.453605v2
 - A DNA-repair pathway can affect transcriptional noise to promote cell fate transitions, https://science.sciencemag.org/content/early/2021/07/21/science.abc6506
 - Cross-tissue single-cell landscape of human monocytes and macrophages in health and disease, https://www.cell.com/immunity/fulltext/S1074-7613(21)00293-4
--
+- Pathway dynamics can delineate the sources of transcriptional noise in gene expression, https://www.biorxiv.org/content/10.1101/2020.09.30.319814v2.abstract
+- Spatial omics and multiplexed imaging to explore cancer biology, https://www.nature.com/articles/s41592-021-01203
+
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
 - Kernel Local Fisher Discriminant Analysis of Principal Components (KLFDAPC) significantly improves the accuracy of predicting geographic origin of individuals,https://www.biorxiv.org/content/10.1101/2021.05.15.444294v2.full
