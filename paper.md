@@ -72,7 +72,7 @@
 - Direct characterization of cis-regulatory elements and functional dissection of complex genetic associations using HCR–FlowFISH, https://www.nature.com/articles/s41588-021-00900-4
 - The distribution of common-variant effect sizes, https://www.nature.com/articles/s41588-021-00901-3
 - The omnigenic model and polygenic prediction of complex traits, https://www.sciencedirect.com/science/article/pii/S0002929721002718?dgcid=author#!
-
+- An inferred functional impact map of genetic variants in rice, https://www.cell.com/molecular-plant/pdf/S1674-2052(21)00260-4.pdf
 
 
 #### single cell data analysis
