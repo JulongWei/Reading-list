@@ -74,6 +74,7 @@
 - The omnigenic model and polygenic prediction of complex traits, https://www.sciencedirect.com/science/article/pii/S0002929721002718?dgcid=author#!
 - An inferred functional impact map of genetic variants in rice, https://www.cell.com/molecular-plant/pdf/S1674-2052(21)00260-4.pdf
 - Dissecting indirect genetic effects from peers in laboratory mice, https://link.springer.com/epdf/10.1186/s13059-021-02415-x?sharing_token=BNvvbYK3YIMoMS-c51Dm5W_BpE1tBhCbnbw3BuzI2RPAye3pQYNRiw7WenOOzu7tJ7Urh6HymeTC9J3NHdSrkBVmiB9TWP-I0BqdDlP1HsmoJxwM6Le0wnfgyaRw7Ikh7aPWJoCt3ba8ZTmlAofNoDxT27n-teXjPtsb2HrwH00%3D
+- A reflux-and-growth mechanism explains oscillatory patterning of lateral root branching sites, https://www.sciencedirect.com/science/article/pii/S153458072100561X
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
