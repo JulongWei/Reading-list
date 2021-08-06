@@ -150,6 +150,7 @@
 - Cross-tissue single-cell landscape of human monocytes and macrophages in health and disease, https://www.cell.com/immunity/fulltext/S1074-7613(21)00293-4
 - Pathway dynamics can delineate the sources of transcriptional noise in gene expression, https://www.biorxiv.org/content/10.1101/2020.09.30.319814v2.abstract
 - Spatial omics and multiplexed imaging to explore cancer biology, https://www.nature.com/articles/s41592-021-01203
+- Microscopic examination of spatial transcriptome using Seq-Scope, https://www.cell.com/cell/fulltext/S0092-8674(21)00627-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421006279%3Fshowall%3Dtrue
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
