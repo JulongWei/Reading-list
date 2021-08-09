@@ -154,6 +154,7 @@
 - Microscopic examination of spatial transcriptome using Seq-Scope, https://www.cell.com/cell/fulltext/S0092-8674(21)00627-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421006279%3Fshowall%3Dtrue
 - A transcription start site map in human pancreatic islets reveals functional regulatory signatures, https://www.biorxiv.org/content/10.1101/812552v3
 - Human and rat skeletal muscle single-nuclei multi-omic integrative analyses nominate causal cell types, regulatory elements, and SNPs for complex traits, https://www.biorxiv.org/content/10.1101/2020.07.01.183004v1.abstract
+- A Bayesian Multivariate Mixture Model for Spatial Transcriptomics Data, https://www.biorxiv.org/content/10.1101/2021.06.23.449615v2
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
