@@ -77,6 +77,7 @@
 - A reflux-and-growth mechanism explains oscillatory patterning of lateral root branching sites, https://www.sciencedirect.com/science/article/pii/S153458072100561X
 - Genetic insights into biological mechanisms governing human ovarian ageing, https://www.nature.com/articles/s41586-021-03779-7
 - De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes, https://science.sciencemag.org/content/373/6555/655
+- Preventing type 1 diabetes in childhood, https://science.sciencemag.org/content/373/6554/506.full
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
