@@ -76,6 +76,7 @@
 - Dissecting indirect genetic effects from peers in laboratory mice, https://link.springer.com/epdf/10.1186/s13059-021-02415-x?sharing_token=BNvvbYK3YIMoMS-c51Dm5W_BpE1tBhCbnbw3BuzI2RPAye3pQYNRiw7WenOOzu7tJ7Urh6HymeTC9J3NHdSrkBVmiB9TWP-I0BqdDlP1HsmoJxwM6Le0wnfgyaRw7Ikh7aPWJoCt3ba8ZTmlAofNoDxT27n-teXjPtsb2HrwH00%3D
 - A reflux-and-growth mechanism explains oscillatory patterning of lateral root branching sites, https://www.sciencedirect.com/science/article/pii/S153458072100561X
 - Genetic insights into biological mechanisms governing human ovarian ageing, https://www.nature.com/articles/s41586-021-03779-7
+- De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes, https://science.sciencemag.org/content/373/6555/655
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
