@@ -157,6 +157,7 @@
 - A transcription start site map in human pancreatic islets reveals functional regulatory signatures, https://www.biorxiv.org/content/10.1101/812552v3
 - Human and rat skeletal muscle single-nuclei multi-omic integrative analyses nominate causal cell types, regulatory elements, and SNPs for complex traits, https://www.biorxiv.org/content/10.1101/2020.07.01.183004v1.abstract
 - A Bayesian Multivariate Mixture Model for Spatial Transcriptomics Data, https://www.biorxiv.org/content/10.1101/2021.06.23.449615v2
+- Modular, efficient and constant-memory single-cell RNA-seq preprocessing, https://www.nature.com/articles/s41587-021-00870-2
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
