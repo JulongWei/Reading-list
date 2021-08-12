@@ -78,6 +78,7 @@
 - Genetic insights into biological mechanisms governing human ovarian ageing, https://www.nature.com/articles/s41586-021-03779-7
 - De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes, https://science.sciencemag.org/content/373/6555/655
 - Preventing type 1 diabetes in childhood, https://science.sciencemag.org/content/373/6554/506.full
+- AFA: Computationally efficient Ancestral Frequency estimation in Admixed populations: the Hispanic Community Health Study/Study of Latinos, https://www.biorxiv.org/content/10.1101/2021.08.06.455462v1
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
@@ -158,6 +159,7 @@
 - Human and rat skeletal muscle single-nuclei multi-omic integrative analyses nominate causal cell types, regulatory elements, and SNPs for complex traits, https://www.biorxiv.org/content/10.1101/2020.07.01.183004v1.abstract
 - A Bayesian Multivariate Mixture Model for Spatial Transcriptomics Data, https://www.biorxiv.org/content/10.1101/2021.06.23.449615v2
 - Modular, efficient and constant-memory single-cell RNA-seq preprocessing, https://www.nature.com/articles/s41587-021-00870-2
+- Integrated annotation and analysis of genomic features reveal new types of functional elements and large-scale epigenetic phenomena in the developing zebrafish, https://www.biorxiv.org/content/10.1101/2021.08.09.454869v2
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
