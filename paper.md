@@ -160,6 +160,7 @@
 - A Bayesian Multivariate Mixture Model for Spatial Transcriptomics Data, https://www.biorxiv.org/content/10.1101/2021.06.23.449615v2
 - Modular, efficient and constant-memory single-cell RNA-seq preprocessing, https://www.nature.com/articles/s41587-021-00870-2
 - Integrated annotation and analysis of genomic features reveal new types of functional elements and large-scale epigenetic phenomena in the developing zebrafish, https://www.biorxiv.org/content/10.1101/2021.08.09.454869v2
+- Mapping the genetic architecture of human traits to cell types in the kidney identifies mechanisms of disease and potential treatments, https://www.nature.com/articles/s41588-021-00909-9**
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
