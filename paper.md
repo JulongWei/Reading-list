@@ -161,6 +161,7 @@
 - Modular, efficient and constant-memory single-cell RNA-seq preprocessing, https://www.nature.com/articles/s41587-021-00870-2
 - Integrated annotation and analysis of genomic features reveal new types of functional elements and large-scale epigenetic phenomena in the developing zebrafish, https://www.biorxiv.org/content/10.1101/2021.08.09.454869v2
 - Mapping the genetic architecture of human traits to cell types in the kidney identifies mechanisms of disease and potential treatments, https://www.nature.com/articles/s41588-021-00909-9**
+- Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution, https://www.cell.com/cell/fulltext/S0092-8674(21)00942-9#.YRa-qoWYSMc.twitter
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
