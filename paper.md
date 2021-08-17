@@ -163,6 +163,7 @@
 - Mapping the genetic architecture of human traits to cell types in the kidney identifies mechanisms of disease and potential treatments, https://www.nature.com/articles/s41588-021-00909-9**
 - Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution, https://www.cell.com/cell/fulltext/S0092-8674(21)00942-9#.YRa-qoWYSMc.twitter
 - ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis, https://www.nature.com/articles/s41588-021-00790-6
+- CoCoA-diff: counterfactual inference for single-cell gene expression analysis, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02438-4
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
