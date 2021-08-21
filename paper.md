@@ -180,3 +180,4 @@
 - Glucocorticoids and B Cell Depleting Agents Substantially Impair Immunogenicity of mRNA Vaccines to SARS-CoV-2, https://www.medrxiv.org/content/10.1101/2021.04.05.21254656v2
 - Non-negative matrix factorization algorithms greatly improve topic mdoel fits
 - Analyzing Nested Experimental Designs - A User-Friendly Resampling Method to Determine Experimental Significance, https://www.biorxiv.org/content/10.1101/2021.06.29.450439v1
+- Bayesian Double Feature Allocation for Phenotyping with Electronic Health Records, https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1686985
