@@ -181,3 +181,4 @@
 - Non-negative matrix factorization algorithms greatly improve topic mdoel fits
 - Analyzing Nested Experimental Designs - A User-Friendly Resampling Method to Determine Experimental Significance, https://www.biorxiv.org/content/10.1101/2021.06.29.450439v1
 - Bayesian Double Feature Allocation for Phenotyping with Electronic Health Records, https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1686985
+- Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework, https://www.tandfonline.com/doi/abs/10.1080/01621459.2016.1167694?journalCode=uasa20
