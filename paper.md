@@ -166,6 +166,7 @@
 - ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis, https://www.nature.com/articles/s41588-021-00790-6
 - CoCoA-diff: counterfactual inference for single-cell gene expression analysis, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02438-4
 - Brain-trait-associated variants impact cell-type-specific gene regulation during neurogenesis, https://www.sciencedirect.com/science/article/abs/pii/S0002929721002792?dgcid=author
+- MultiVI: deep generative model for the integration of multi-modal data, https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1.full
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
