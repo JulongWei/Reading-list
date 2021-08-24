@@ -167,6 +167,7 @@
 - CoCoA-diff: counterfactual inference for single-cell gene expression analysis, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02438-4
 - Brain-trait-associated variants impact cell-type-specific gene regulation during neurogenesis, https://www.sciencedirect.com/science/article/abs/pii/S0002929721002792?dgcid=author
 - MultiVI: deep generative model for the integration of multi-modal data, https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1.full
+- Single-cell measurement of higher-order 3D genome organization with scSPRITE, https://www.nature.com/articles/s41587-021-00998-1
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
@@ -186,3 +187,4 @@
 - Bayesian Double Feature Allocation for Phenotyping with Electronic Health Records, https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1686985
 - Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework, https://www.tandfonline.com/doi/abs/10.1080/01621459.2016.1167694?journalCode=uasa20
 - Bayesian Graphical Regression, https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1389739?src=recsys
+- Beyond Linear Algebra, https://arxiv.org/pdf/2108.09494.pdf
