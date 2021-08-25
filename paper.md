@@ -168,6 +168,9 @@
 - Brain-trait-associated variants impact cell-type-specific gene regulation during neurogenesis, https://www.sciencedirect.com/science/article/abs/pii/S0002929721002792?dgcid=author
 - MultiVI: deep generative model for the integration of multi-modal data, https://www.biorxiv.org/content/10.1101/2021.08.20.457057v1.full
 - Single-cell measurement of higher-order 3D genome organization with scSPRITE, https://www.nature.com/articles/s41587-021-00998-1
+- INFIMA leverages multi-omics model organism data to identify effector genes of human GWAS variants, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02450-8
+- Systematic dissection of transcriptional regulatory networks by genome-scale and single-cell CRISPR screens, https://advances.sciencemag.org/content/7/27/eabf5733.full
+- Integrative approach identifies SLC6A20 and CXCR6 as putative causal genes for the COVID-19 GWAS signal in the 3p21.31 locus, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02454-4
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
