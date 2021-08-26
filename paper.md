@@ -80,6 +80,7 @@
 - Preventing type 1 diabetes in childhood, https://science.sciencemag.org/content/373/6554/506.full
 - AFA: Computationally efficient Ancestral Frequency estimation in Admixed populations: the Hispanic Community Health Study/Study of Latinos, https://www.biorxiv.org/content/10.1101/2021.08.06.455462v1
 - Partitioning gene-level contributions to complex-trait heritability by allele frequency identifies disease-relevant genes, https://www.biorxiv.org/content/10.1101/2021.08.17.456722v1.full
+- Genome-wide association studies, https://www.nature.com/articles/s43586-021-00056-9
 
 #### single cell data analysis
 - IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation, https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1.full
