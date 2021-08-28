@@ -176,6 +176,7 @@
 - The Specious Art of Single-Cell Genomics, https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1.full
 - Parametric UMAPembeddingsforrepresentation and semi-supervised learning, https://arxiv.org/abs/2009.12981
 - SnapHiC: a computational pipeline to identify chromatin loops from single-cell Hi-C data, https://www.nature.com/articles/s41592-021-01231-2
+- RNA velocity—current challenges and future perspectives, https://www.embopress.org/doi/full/10.15252/msb.202110282
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
