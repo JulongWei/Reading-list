@@ -174,6 +174,7 @@
 - Integrative approach identifies SLC6A20 and CXCR6 as putative causal genes for the COVID-19 GWAS signal in the 3p21.31 locus, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02454-4
 - TedSim: temporal dynamics simulation of single cell RNA-sequencing data and cell division history, https://www.biorxiv.org/content/10.1101/2021.06.21.449283v2.full
 - The Specious Art of Single-Cell Genomics, https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1.full
+- Parametric UMAPembeddingsforrepresentation and semi-supervised learning, https://arxiv.org/abs/2009.12981
 
 ##### evolution 
 - Denisovan introgression has shaped the immune system of present-day Papuans, https://www.biorxiv.org/content/10.1101/2020.07.09.196444v2.full#ref-4
